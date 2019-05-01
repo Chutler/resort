@@ -1,29 +1,29 @@
 h1 {
-    font-family: fantasy;
-    color: green;
-    background: gold;
-    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgba(0, 128, 0, 0.705);
+    background: rgb(209, 199, 139);
+    text-align: left;
 }
 
 h2 {
-    font-family: fantasy;
-    color: burlywood;
-    background: brown;
-    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(80, 65, 45);
+    background: bisque;
+    text-align: left;
 }
 
 .navigation {
-    color: darkgreen;
+    color: royalblue;
     font-family: sans-serif;
 }
 
 p.email {
-    font-weight: bold
+    color: darkslategray
 }
 
 .lead {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: larger;
-    background: gold;
+    font-stretch: expanded;
+    background: bisque;
 }
 
