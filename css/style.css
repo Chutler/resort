@@ -1,0 +1,29 @@
+h1 {
+    font-family: fantasy;
+    color: green;
+    background: gold;
+    text-align: center;
+}
+
+h2 {
+    font-family: fantasy;
+    color: burlywood;
+    background: brown;
+    text-align: center;
+}
+
+.navigation {
+    color: darkgreen;
+    font-family: sans-serif;
+}
+
+p.email {
+    font-weight: bold
+}
+
+.lead {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    background: gold;
+}
+
